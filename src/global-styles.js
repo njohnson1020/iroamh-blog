@@ -21,7 +21,7 @@ const GlobalStyle = createGlobalStyle`
 
   body {
     background: #f9fafc;
-    font-family: 'Open Sans', sans-serif; 
+    font-family: 'Inconsolata', monospace; 
     line-height: 1.5;
     padding: 50px 0;
     -webkit-font-smoothing: antialiased;
