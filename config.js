@@ -2,7 +2,7 @@ module.exports = {
   title: 'Incoherent Ramblings of a Midwestern Homebody', // Required
   author: 'Incoherent Ramblings of a Midwestern Homebody', // Required
   description: 'A Nordic Brain Dump',
-  primaryColor: '#097537', // Required
+  primaryColor: '#3498db', // Required
   showHeaderImage: false,
   showShareButtons: false,
   postsPerPage: 5, // Required

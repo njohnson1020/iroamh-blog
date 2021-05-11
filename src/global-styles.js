@@ -21,7 +21,7 @@ const GlobalStyle = createGlobalStyle`
 
   body {
     background: #f9fafc;
-    font-family: 'Inconsolata', monospace; 
+    font-family: 'Open Sans', sans-serif; 
     line-height: 1.5;
     padding: 50px 0;
     -webkit-font-smoothing: antialiased;
@@ -48,7 +48,7 @@ const GlobalStyle = createGlobalStyle`
     background: rgba(245, 245, 245, 1);
     color: rgb(65, 76, 94);  }
 
-  @media only screen  {
+  @media only screen and (max-width: 870px) {
     .gatsby-highlight {
       margin: 15px -15px;
 
