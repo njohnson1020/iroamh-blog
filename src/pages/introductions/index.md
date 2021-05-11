@@ -1,7 +1,7 @@
 ---
 title: i suppose introductions are in order
 date: "2021-05-10"
-featuredImage: './ireland.jpg'
+featuredImage: './ireland copy.jpg'
 ---
 
 Hi, I am Nathan.

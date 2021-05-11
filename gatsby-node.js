@@ -29,7 +29,7 @@ exports.createPages = ({ graphql, actions }) => {
                     date(formatString: "MMMM D, YYYY")
                     featuredImage {
                       childImageSharp {
-                        sizes(maxWidth: 850) {
+                        sizes(maxWidth: 2560) {
                           base64
                           aspectRatio
                           src
